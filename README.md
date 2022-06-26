@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @Macintosh2k
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
 
-<!---
-Macintosh2k/Macintosh2k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+```diff
+Macintosh2k
+
+@@Automation Developer & Start-Up Entrepenuer.@@
++ 16 Years old.
+- Learning Kali Linux and Selenium
+! Zeusbtc21@gmail.com to Contact
+```
+<br>
+
+
+Current Projects
+<br>
+- OpenSea AIO
+- Variable Market V2
+<br>
+<img src="https://img.shields.io/badge/macintosh-%237347ad?style=for-the-badge&logo=bitcoin">
