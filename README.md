@@ -15,6 +15,7 @@ Macintosh2k
 Current Projects
 <br>
 - OpenSea AIO
+- YouTube Monetization Tool
 - Variable Market V2
 <br>
 <img src="https://img.shields.io/badge/macintosh-%237347ad?style=for-the-badge&logo=bitcoin">
