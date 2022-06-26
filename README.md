@@ -3,10 +3,10 @@
 ```diff
 Macintosh2k
 
-@@Automation Developer & Start-Up Entrepenuer.@@
-+ 16 Years old.
+@@Automation Developer & Start-Up Entrepenuer@@
++ 16 Years old
 - Learning Kali Linux and Selenium
-! Zeusbtc21@gmail.com to Contact
+! Macintosh2k@protonmail.com to Contact
 ```
 <br>
 
